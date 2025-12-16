@@ -28,8 +28,8 @@ public class Main {
         String pastTenseVerb = sc.nextLine();
 
         System.out.println();
-        System.out.println(\\t
-            "On " + month + ", a " + number + " " + noun +
+        System.out.println(
+            "\tOn " + month + " the  " + number + ", a " + noun +
             " decided to " + verb3 + " through the " + adjective + " " + noun + ". " +
             "Along the way, it found " + number + " " + pluralNoun +
             " that were extremely " + adjective + ". " +
